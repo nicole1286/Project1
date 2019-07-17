@@ -1,5 +1,5 @@
 Our project is to review trends in economic freedom since the US recession from 2009 to 2019
-Source of data: Economic Freedom Index
+Source of data: Economic Freedom Index published by Heritage Foundation
 
 Economic freedom?  What does it mean…
 Economic freedom is fundamental right of every human to control his/her own labor & property.  In an economically free society, individuals are free to work, produce, consume and invest in any way they please.  Also, governments allow labor, capital and goods to move freely and refrain from coercion or contraint of liberty beyond the extent necessary to protect and maintain liberty itself.
